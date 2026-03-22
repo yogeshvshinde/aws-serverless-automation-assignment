@@ -27,6 +27,9 @@ Instance 2:
 
  ![alt text](image-2.png)
 
+
+ 
+
 Step 2: Add Tags
 1.	Go to Instances 
 2.	Select first instance → Click Tags tab 
@@ -54,6 +57,9 @@ Click:
 
  ![alt text](image-3.png)
 
+
+
+
 Step 4: Create Lambda Function
 1.	Go to AWS Lambda 
 2.	Click Create function 
@@ -65,6 +71,7 @@ Click Create function
 
 Step 4: Add Code
 
+
 ![alt text](image-4.png)
 
 
@@ -74,6 +81,9 @@ Step 4: Add Code
 
  
 ![alt text](image-7.png)
+
+
+
  
 
 Step 6: Test Lambda
@@ -93,6 +103,9 @@ Step 6: Test Lambda
 
 
 ![alt text](image-11.png)
+
+
+
 
 
 Assignment 2 (S3 Cleanup)
@@ -127,7 +140,11 @@ Create new role:
 •	Policy: AmazonS3FullAccess 
 •	Name: lambda-s3-role 
 
+
+
  ![alt text](image-14.png)
+
+ 
 ________________________________________
 Step 4: Create Lambda
 •	Name: s3-cleanup 
@@ -164,6 +181,7 @@ Check bucket → old files removed
  
 
  ![alt text](image-20.png)
+
 
 
 
